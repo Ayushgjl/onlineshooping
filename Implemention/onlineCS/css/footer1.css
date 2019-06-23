@@ -1,0 +1,29 @@
+.footer{
+	width: 100%;
+	height: auto;
+	float: left;
+	margin-top: 50px;
+	padding: 25px 0;
+	background-color: black;
+	color: white;
+}
+.column3{
+	width: 25%;
+	float: left;
+
+
+}
+.footer h4{
+	margin-bottom: 7px;
+}
+.footer p {
+	font-size: 14px;
+}
+.footer p img{
+	margin-right: 5px;
+}
+.second-column p{
+	border-bottom: 1px dotted white;
+	padding-bottom: 7px;
+	margin-bottom: 7px;
+}
